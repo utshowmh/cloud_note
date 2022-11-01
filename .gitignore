@@ -1,0 +1,13 @@
+node_modules
+dist
+__pycache__
+
+.env.local
+.env.*.local
+
+*.pyc
+*.db
+*.sqlite
+*.sqlite3
+
+.vscode
